@@ -1,2 +1,3 @@
-# Git-hub-demo
+# My demo
 this is sample repository
+Author-PrajwalJ
